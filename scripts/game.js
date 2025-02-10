@@ -56,3 +56,5 @@ function playGame() {
 
     console.log(`Game Result:\n----- Player ${humanScore} vs ${computerScore} Computer -----`)
 }
+
+playGame();
